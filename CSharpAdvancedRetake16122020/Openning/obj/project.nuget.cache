@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KTEUMsnCl3vBW/wXVBhO+rM1vf+MzexZOq6bVgH6lWSplaYXG3RZgyubBjSCW2bqJdM04HjbMBI7djHFZWjtCw==",
+  "success": true,
+  "projectFilePath": "/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-Retake-16Dec2020/CSharpAdvancedRetake16122020/Openning/BakeryOpenning.csproj",
+  "expectedPackageFiles": [
+    "/Users/ivaylotonkovski/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.8/microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}

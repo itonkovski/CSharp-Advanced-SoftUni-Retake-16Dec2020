@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{2417616F-7869-4394-BCD2-CA5AE8655617}|Default">
+  <MonoDevelop.Ide.ItemProperties.Cooking PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CSharpAdvancedRetake16122020" expanded="True">
+            <Node name="Openning" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>Openning/Openning.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Selling PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-Retake-16Dec2020/CSharpAdvancedRetake16122020/Selling/Program.cs" relfile="Selling/Program.cs" line="27" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

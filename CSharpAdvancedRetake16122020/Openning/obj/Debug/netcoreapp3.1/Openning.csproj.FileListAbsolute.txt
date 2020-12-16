@@ -1,0 +1,12 @@
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-Retake-16Dec2020/CSharpAdvancedRetake16122020/Openning/bin/Debug/netcoreapp3.1/Openning.deps.json
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-Retake-16Dec2020/CSharpAdvancedRetake16122020/Openning/bin/Debug/netcoreapp3.1/Openning.runtimeconfig.json
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-Retake-16Dec2020/CSharpAdvancedRetake16122020/Openning/bin/Debug/netcoreapp3.1/Openning.runtimeconfig.dev.json
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-Retake-16Dec2020/CSharpAdvancedRetake16122020/Openning/bin/Debug/netcoreapp3.1/Openning.dll
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-Retake-16Dec2020/CSharpAdvancedRetake16122020/Openning/bin/Debug/netcoreapp3.1/Openning.pdb
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-Retake-16Dec2020/CSharpAdvancedRetake16122020/Openning/obj/Debug/netcoreapp3.1/Openning.csprojAssemblyReference.cache
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-Retake-16Dec2020/CSharpAdvancedRetake16122020/Openning/obj/Debug/netcoreapp3.1/Openning.AssemblyInfoInputs.cache
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-Retake-16Dec2020/CSharpAdvancedRetake16122020/Openning/obj/Debug/netcoreapp3.1/Openning.AssemblyInfo.cs
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-Retake-16Dec2020/CSharpAdvancedRetake16122020/Openning/obj/Debug/netcoreapp3.1/Openning.csproj.CoreCompileInputs.cache
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-Retake-16Dec2020/CSharpAdvancedRetake16122020/Openning/obj/Debug/netcoreapp3.1/Openning.dll
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-Retake-16Dec2020/CSharpAdvancedRetake16122020/Openning/obj/Debug/netcoreapp3.1/Openning.pdb
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-Retake-16Dec2020/CSharpAdvancedRetake16122020/Openning/obj/Debug/netcoreapp3.1/Openning.genruntimeconfig.cache

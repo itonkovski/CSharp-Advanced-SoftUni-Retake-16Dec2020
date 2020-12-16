@@ -1,0 +1,12 @@
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-Retake-16Dec2020/CSharpAdvancedRetake16122020/Cooking/bin/Debug/netcoreapp3.1/Cooking.deps.json
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-Retake-16Dec2020/CSharpAdvancedRetake16122020/Cooking/bin/Debug/netcoreapp3.1/Cooking.runtimeconfig.json
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-Retake-16Dec2020/CSharpAdvancedRetake16122020/Cooking/bin/Debug/netcoreapp3.1/Cooking.runtimeconfig.dev.json
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-Retake-16Dec2020/CSharpAdvancedRetake16122020/Cooking/bin/Debug/netcoreapp3.1/Cooking.dll
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-Retake-16Dec2020/CSharpAdvancedRetake16122020/Cooking/bin/Debug/netcoreapp3.1/Cooking.pdb
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-Retake-16Dec2020/CSharpAdvancedRetake16122020/Cooking/obj/Debug/netcoreapp3.1/Cooking.csprojAssemblyReference.cache
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-Retake-16Dec2020/CSharpAdvancedRetake16122020/Cooking/obj/Debug/netcoreapp3.1/Cooking.AssemblyInfoInputs.cache
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-Retake-16Dec2020/CSharpAdvancedRetake16122020/Cooking/obj/Debug/netcoreapp3.1/Cooking.AssemblyInfo.cs
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-Retake-16Dec2020/CSharpAdvancedRetake16122020/Cooking/obj/Debug/netcoreapp3.1/Cooking.csproj.CoreCompileInputs.cache
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-Retake-16Dec2020/CSharpAdvancedRetake16122020/Cooking/obj/Debug/netcoreapp3.1/Cooking.dll
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-Retake-16Dec2020/CSharpAdvancedRetake16122020/Cooking/obj/Debug/netcoreapp3.1/Cooking.pdb
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-Retake-16Dec2020/CSharpAdvancedRetake16122020/Cooking/obj/Debug/netcoreapp3.1/Cooking.genruntimeconfig.cache

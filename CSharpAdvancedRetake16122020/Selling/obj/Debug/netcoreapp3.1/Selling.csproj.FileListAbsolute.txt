@@ -1,0 +1,12 @@
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-Retake-16Dec2020/CSharpAdvancedRetake16122020/Selling/obj/Debug/netcoreapp3.1/Selling.csprojAssemblyReference.cache
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-Retake-16Dec2020/CSharpAdvancedRetake16122020/Selling/obj/Debug/netcoreapp3.1/Selling.AssemblyInfoInputs.cache
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-Retake-16Dec2020/CSharpAdvancedRetake16122020/Selling/obj/Debug/netcoreapp3.1/Selling.AssemblyInfo.cs
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-Retake-16Dec2020/CSharpAdvancedRetake16122020/Selling/obj/Debug/netcoreapp3.1/Selling.csproj.CoreCompileInputs.cache
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-Retake-16Dec2020/CSharpAdvancedRetake16122020/Selling/bin/Debug/netcoreapp3.1/Selling.deps.json
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-Retake-16Dec2020/CSharpAdvancedRetake16122020/Selling/bin/Debug/netcoreapp3.1/Selling.runtimeconfig.json
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-Retake-16Dec2020/CSharpAdvancedRetake16122020/Selling/bin/Debug/netcoreapp3.1/Selling.runtimeconfig.dev.json
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-Retake-16Dec2020/CSharpAdvancedRetake16122020/Selling/bin/Debug/netcoreapp3.1/Selling.dll
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-Retake-16Dec2020/CSharpAdvancedRetake16122020/Selling/bin/Debug/netcoreapp3.1/Selling.pdb
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-Retake-16Dec2020/CSharpAdvancedRetake16122020/Selling/obj/Debug/netcoreapp3.1/Selling.dll
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-Retake-16Dec2020/CSharpAdvancedRetake16122020/Selling/obj/Debug/netcoreapp3.1/Selling.pdb
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-Retake-16Dec2020/CSharpAdvancedRetake16122020/Selling/obj/Debug/netcoreapp3.1/Selling.genruntimeconfig.cache
